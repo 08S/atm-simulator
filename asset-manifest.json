@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atm-simulator/static/css/main.6771e1b2.css",
+    "main.js": "/atm-simulator/static/js/main.87b2821a.js",
+    "index.html": "/atm-simulator/index.html",
+    "main.6771e1b2.css.map": "/atm-simulator/static/css/main.6771e1b2.css.map",
+    "main.87b2821a.js.map": "/atm-simulator/static/js/main.87b2821a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6771e1b2.css",
+    "static/js/main.87b2821a.js"
+  ]
+}
